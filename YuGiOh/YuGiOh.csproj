@@ -196,5 +196,14 @@
   <ItemGroup>
     <None Include="Resources\premium_photo-1670271544153-dd9933f0f119.jpeg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton jugar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\processed_image.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

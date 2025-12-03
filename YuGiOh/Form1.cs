@@ -22,7 +22,7 @@ namespace YuGiOh
         {
 
             // Ruta del archivo de video
-            string rutaVideo = @"C:\Users\isaac\Downloads\konami.mp4";
+            string rutaVideo = @"C:\Users\isaac\Downloads\VideoIntro.mp4";
 
             // Configurar el reproductor
             axWindowsMediaPlayer1.URL = rutaVideo;  // Esto carga y reproduce automáticamente el video
@@ -31,7 +31,8 @@ namespace YuGiOh
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void pictureBox1_Click(object sender, EventArgs e)
         {
             FormCartas F2 = new FormCartas();
             F2.Show();

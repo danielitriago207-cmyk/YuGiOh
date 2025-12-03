@@ -93,6 +93,26 @@ namespace YuGiOh.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap boton {
+            get {
+                object obj = ResourceManager.GetObject("boton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap boton_jugar {
+            get {
+                object obj = ResourceManager.GetObject("boton jugar", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Caballero {
             get {
                 object obj = ResourceManager.GetObject("Caballero", resourceCulture);
@@ -176,6 +196,16 @@ namespace YuGiOh.Properties {
         internal static System.Drawing.Bitmap premium_photo_1670271544153_dd9933f0f119 {
             get {
                 object obj = ResourceManager.GetObject("premium_photo-1670271544153-dd9933f0f119", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap processed_image {
+            get {
+                object obj = ResourceManager.GetObject("processed_image", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

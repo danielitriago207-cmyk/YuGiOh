@@ -121,6 +121,12 @@
   <data name="Pingüino" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Pingüino.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="boton jugar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boton jugar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="elfosGemelos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elfosGemelos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Caballero" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Caballero.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,8 +136,11 @@
   <data name="WhatsApp Image 2025-12-02 at 10.22.00_c406000e" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WhatsApp Image 2025-12-02 at 10.22.00_c406000e.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="elfosGemelos" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\elfosGemelos.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="225acdd3-0e13-423c-8386-b0239aa5fc45" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\225acdd3-0e13-423c-8386-b0239aa5fc45.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="boton" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\boton.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Kuriboh" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Kuriboh.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,14 +148,14 @@
   <data name="Jinzo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Jinzo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="premium_photo-1670271544153-dd9933f0f119" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\premium_photo-1670271544153-dd9933f0f119.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="blackDragon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blackDragon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="cyberDragon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cyberDragon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="225acdd3-0e13-423c-8386-b0239aa5fc45" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\225acdd3-0e13-423c-8386-b0239aa5fc45.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="blade" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\blade.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -157,7 +166,7 @@
   <data name="zombi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\zombi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="premium_photo-1670271544153-dd9933f0f119" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\premium_photo-1670271544153-dd9933f0f119.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="processed_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\processed_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
