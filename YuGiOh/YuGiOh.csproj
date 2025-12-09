@@ -100,12 +100,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\225acdd3-0e13-423c-8386-b0239aa5fc45.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\WhatsApp Image 2025-12-02 at 10.22.00_c406000e.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\dragonAzul.jpg" />
   </ItemGroup>
   <ItemGroup>
@@ -204,6 +198,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\processed_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mago.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

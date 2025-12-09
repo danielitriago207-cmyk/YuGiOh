@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Drawing;
 
 namespace YuGiOh
 {
@@ -22,7 +23,7 @@ namespace YuGiOh
         public CardPosition Posicion { get; set; }
         public bool EnCampo { get; set; }
         public bool Girada { get; set; }
-        public string RutaImagen { get; set; } = null;
+        public Image Imagen { get; set; }
 
         //CONSTRUCTORES
         // Constructor vacío 
@@ -103,7 +104,7 @@ namespace YuGiOh
             Console.WriteLine($"Posición: {Posicion}");
             Console.WriteLine($"En campo: {EnCampo}");
             Console.WriteLine($"Girada: {Girada}");
-            Console.WriteLine($"Ruta imagen: {RutaImagen ?? "No tiene"}");
+            Console.WriteLine($"Ruta imagen: {(Imagen != null ? "Sí tiene" : "No tiene")}");
             Console.WriteLine("========================================");
         }
 

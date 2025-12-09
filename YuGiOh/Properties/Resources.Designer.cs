@@ -173,6 +173,16 @@ namespace YuGiOh.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap mago {
+            get {
+                object obj = ResourceManager.GetObject("mago", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Neos {
             get {
                 object obj = ResourceManager.GetObject("Neos", resourceCulture);
@@ -213,12 +223,7 @@ namespace YuGiOh.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap WhatsApp_Image_2025_12_02_at_10_22_00_c406000e {
-            get {
-                object obj = ResourceManager.GetObject("WhatsApp Image 2025-12-02 at 10.22.00_c406000e", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
+        
         
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
